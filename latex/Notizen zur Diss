@@ -1,0 +1,39 @@
+# Notizen zur Diss
+
+## 1. Crystallization und Kristallisationsgrad 
+* Beginn war  
+* Avrami bzw JMAK Gleichung (1930er)
+* Crystallization bei non isothermer umgebung (weil ich den Prozess betrachte)
+* Nakamura (1972/73) Gleichung
+* Abhängig von: Cooling rate 
+* welche Materialien? Thermoplaste; PE (PP?) 
+
+* wie ist der Stand der Technik? 
+* Wie wird der Kristallisationsgrad gemessen? 
+* Kann man die Methoden verbessern? 
+* Kristallisationstemperatur? was genau ist das? was kann das? 
+
+
+## 2. Messmethode des Kristallisationsgrades 
+* DSC? Dichte? siehe MA Björn Traut 
+
+## 3. Thermographie 
+* soll helfen, die Cooling Rate zu bestimmen 
+* daraus soll resultierender Kristallisationsgrad bestimmt werden 
+
+## 4. Mechanische Eigenschaften 
+
+* in Abhängigkeit von cooling rate 
+
+* wie ist hier der Stand der Technik?? siehe punkt 1
+
+## 5. Simulation und Experiment möglich
+* Experimente mit Referenzformteil zb unserer Platte (besser etwas kleineres vllt? aber eine einfache Geometrie wäre am besten daher Platte)
+* Druck und Formfüllung und Temperaturen messen ; Formfüllstudie (ohne ND, Schnecke immer weiter vor schieben)
+* Variation der Wärmeübergangskoeffizienten wurde von Nguyen-Chung et. al. festgestellt: weitere Veröffentlichungen ( Determination of the heat transfer coefficient from short-shots studies and precise simulation of micro- injection molding Nguyen-Chung et. al. 2010) behandeln dies bereits 
+* Stoffdaten/MAterialdaten für die Simulation: Woher? Prüflabor der Firma MOldflow wurde von Nguyen-Chung et. al. verwendet
+
+* Rotationsmikrotom für Dünnschnitte? Woher? Erlaubt extern durchführen zu lassen? (Wir haben eines); Mikroskop untersuchung erst 4x/5x vergrößern dann 20x 100x(?) Vergrößerung, vllt auch Polarisation der Teile betrachten? 
+
+
+* Einfluss der WZ TEmperatur: laut "Analyse der Morphologie spritzgegossener Mikrobauteile" Nguyen-Chung et. al. Randschicht geringer bei hoher WZ Wandtemperatur 
